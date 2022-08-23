@@ -1,4 +1,4 @@
-# uniapp 公开课
+# 玩转 uniapp 全端开发
 
 ## uniapp 介绍
 
